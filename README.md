@@ -21,7 +21,7 @@ I've been programming since 2021 in python, switched to Web Development in HTML,
 
 - 🌍 I'm based in India
 - 🖥️ See my portfolio at [My Official Website](http://giantguy.web.app)
-- 🧠 I'm learning Next.js
+- 🧠 I'm learning Machine Learning
 - 🤝 I'm open to collaborating on any React.js or Next.js project
 - ⚡ I am a college student whose more intersted in programming than studying those boring subjects
 
