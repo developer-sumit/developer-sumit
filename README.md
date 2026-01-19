@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/duagyqzv4/image/upload/v1768839590/images/sumit-singh-rathore-github-banner_qs9i9h.png)
+![Banner](https://res.cloudinary.com/duagyqzv4/image/upload/v1768839911/images/sumit-singh-rathore-github-banner_ugrji3.png)
 
 ---
 
